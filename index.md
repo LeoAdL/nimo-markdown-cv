@@ -47,7 +47,7 @@ Chicago, USA
 Paris, France
 ```
 
-- M.SC. Analysis and Policy in Economics, _Summa Cum Laude_
+- M.SC. Analysis and Policy in Economics, _Summa Cum Laude_.
 
 ### **École Normale Supérieure Ulm** `2015.9 - 2016.5`
 
@@ -55,7 +55,7 @@ Paris, France
 Paris, France
 ```
 
-- B.Sc. in Physics, _Cum Laude_
+- B.Sc. in Physics, _Cum Laude_.
 
 ## Research interests
 
