@@ -61,7 +61,7 @@ Paris, France
 
 ### [**Managing Public Portfolios**](https://www.nber.org/papers/w30501)
 
-**Leo R. Aparisi de Lannoy**, Anmol Bhandari, David Evans, Mikhail Golosov & Thomas J. Sargent.<br>
+**Leo R. Aparisi de Lannoy**, Anmol Bhandari, David Evans, Mikhail Golosov & Thomas J. Sargent. `2022` <br>
 _NBER Working Paper._ <br>
 [[PDF]](https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/6328ee5213a65c43a48423f8/1663626851912/abegs4draft.pdf)
 
@@ -83,11 +83,11 @@ Teaching Assistant, **Money, Banking, and the Financial Crisis** `EMBA, U Chicag
 
 ## Skills
 
-### Programming
+### **Programming**
 
 **Julia** (Proficient), **Python** (Proficient), **LaTeX** (Proficient), **Matlab** (Intermediate)
 
-### Languages
+### **Languages**
 
 **French** (Native), **English** (Fluent), **Spanish** (Proficient)
 
