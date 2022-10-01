@@ -57,7 +57,7 @@ Paris, France
 
 - B.Sc. in Physics, _Cum Laude_
 
-## Publications
+## Research interests
 
 ### **Primary Fields**
 
@@ -69,6 +69,11 @@ Asset Pricing, Time series Econometrics
 
 ## Publications
 
+### [**Managing Public Portfolios**](https://www.nber.org/papers/w30501)
+
+**Leo R. Aparisi de Lannoy**, Anmol Bhandari, David Evans, Mikhail Golosov & Thomas J. Sargent.<br>
+_NBER Working Paper._ <br>
+[PDF]
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
 
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br>
