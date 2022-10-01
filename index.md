@@ -57,16 +57,6 @@ Paris, France
 
 - B.Sc. in Physics, _Cum Laude_.
 
-## Research interests
-
-### **Primary Fields**
-
-Macroeconomics, Monetary Economics
-
-### Secondary Fields
-
-Asset Pricing, Time series Econometrics
-
 ## Publications
 
 ### [**Managing Public Portfolios**](https://www.nber.org/papers/w30501)
