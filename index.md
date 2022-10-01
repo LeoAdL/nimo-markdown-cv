@@ -24,7 +24,7 @@ Supported arguments:
 
 ## Education
 
-### **University of Chicago** `2018.9 -`
+### **University of Chicago** `2018 -`
 
 ```
 Chicago, USA
@@ -33,7 +33,7 @@ Chicago, USA
 - Ph.D. in Economics
 - Advised by [Mikhail Golosov](https://voices.uchicago.edu/golosov/contact/), [Lars Peter Hansen](https://larspeterhansen.org/contact/), [Fernando Alvarez](https://alvarezfernando.com/)
 
-### **University of Chicago** `2018.9 - 2020.6`
+### **University of Chicago** `2018 - 2020`
 
 ```
 Chicago, USA
@@ -41,7 +41,7 @@ Chicago, USA
 
 - M.A. in Economics
 
-### **Paris School of Economics** `2016.9 - 2018.5`
+### **Paris School of Economics** `2016 - 2018`
 
 ```
 Paris, France
@@ -49,7 +49,7 @@ Paris, France
 
 - M.SC. Analysis and Policy in Economics, _Summa Cum Laude_.
 
-### **École Normale Supérieure Ulm** `2015.9 - 2016.5`
+### **École Normale Supérieure Ulm** `2015 - 2016`
 
 ```
 Paris, France
