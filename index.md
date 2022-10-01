@@ -1,15 +1,16 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Leo Aparisi de Lannoy
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:laparisidelannoy@uchicago.edu
+  text: laparisidelannoy@uchicago.edu
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://leoadl.netlify.app/
+  text: https://leoadl.netlify.app/
+phone: (312)-394-9854
 ---
 
-# Wode **Ni**
+# Leo **Aparisi de Lannoy**
 
 <!--
 include contact information from the front matter
@@ -53,16 +54,17 @@ Carlisle, PA
 ## Publications
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
+
+**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br>
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
 [[talk](https://youtu.be/_GQ8E7EMMws)]
 
-
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
+
+Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>
 _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
@@ -153,7 +155,6 @@ Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Colum
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
 Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
 
 ## Service
 
