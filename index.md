@@ -48,7 +48,24 @@ Paris, France
 ```
 
 - M.SC. Analysis and Policy in Economics, _Summa Cum Laude_
-- Computer Science Departmental Honors
+
+### **École Normale Supérieure Ulm** `2015.9 - 2016.5`
+
+```
+Paris, France
+```
+
+- B.Sc. in Physics, _Cum Laude_
+
+## Publications
+
+### **Primary Fields**
+
+Macroeconomics, Monetary Economics
+
+### Secondary Fields
+
+Asset Pricing, Time series Econometrics
 
 ## Publications
 
