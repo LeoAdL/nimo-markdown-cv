@@ -9,3 +9,98 @@ homepage:
   text: https://leoadl.netlify.app/
 phone: (312)-394-9854
 ---
+
+# Leo **Aparisi de Lannoy**
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+{% include cv-contact.html %}
+
+## Education
+
+### **University of Chicago** `2018.9 -`
+
+```
+Chicago, USA
+```
+
+- Ph.D. in Economics
+- Advised by [Mikhail Golosov](https://voices.uchicago.edu/golosov/contact/), [Lars Peter Hansen](https://larspeterhansen.org/contact/), [Fernando Alvarez](https://alvarezfernando.com/)
+
+### **University of Chicago** `2018.9 - 2020.6`
+
+```
+Chicago, USA
+```
+
+- M.A. in Economics
+
+### **Paris School of Economics** `2016.9 - 2018.5`
+
+```
+Paris, France
+```
+
+- M.SC. Analysis and Policy in Economics, _Summa Cum Laude_.
+
+### **École Normale Supérieure Ulm** `2015.9 - 2016.5`
+
+```
+Paris, France
+```
+
+- B.Sc. in Physics, _Cum Laude_.
+
+## Research interests
+
+### **Primary Fields**
+
+Macroeconomics, Monetary Economics
+
+### Secondary Fields
+
+Asset Pricing, Time series Econometrics
+
+## Publications
+
+### [**Managing Public Portfolios**](https://www.nber.org/papers/w30501)
+
+**Leo R. Aparisi de Lannoy**, Anmol Bhandari, David Evans, Mikhail Golosov & Thomas J. Sargent.<br>
+_NBER Working Paper._ <br>
+[[PDF]](https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/6328ee5213a65c43a48423f8/1663626851912/abegs4draft.pdf)
+
+## Honors & Awards
+
+**Martin C. And Margaret M. Lee Prize**, Best Performance in Macroeconomics Sequence `U Chicago, 2018` <br>
+**Neubauer Fellowship**, Graduate Fellowship `U Chicago, 2018` <br>
+**First Prize in History**, `French National History Competition (Concours General), 2012` <br>
+
+## Teaching Experience
+
+Instructor, **Topics in Economics** `Masters in Financial Mathematics, U Chicago, Fall 2021` <br>
+Teaching Assistant, **Empirical Analysis II** `PhD, U Chicago, Winter 2020, 2021, 2022` <br>
+Teaching Assistant, **Financial Markets in the Macroeconomy** `PhD, U Chicago, Spring 2021` <br>
+Teaching Assistant, **Risk, Uncertainty, and Value: prices, quantities, and policies** `PhD, U Chicago, Spring 2021` <br>
+Teaching Assistant, **Monetary Economics I** `PhD, U Chicago, Fall 2020` <br>
+Teaching Assistant, **Theory of Income I** `PhD, U Chicago, Fall 2019` <br>
+Teaching Assistant, **Money, Banking, and the Financial Crisis** `EMBA, U Chicago, Summer 2021` <br>
+
+## Skills
+
+### Programming
+
+**Julia** (Proficient), **Python** (Proficient), **LaTeX** (Proficient), **Matlab** (Intermediate)
+
+### Languages
+
+**French** (Native), **English** (Fluent), **Spanish** (Proficient)
+
+<!-- ### Footer
+
+Last updated: 09/22 -->
