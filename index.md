@@ -5,8 +5,8 @@ email:
   url: mailto:laparisidelannoy@uchicago.edu
   text: laparisidelannoy@uchicago.edu
 homepage:
-  url: https://leoadl.netlify.app/
-  text: https://leoadl.netlify.app/
+  url: https://www.leoadl.com/
+  text: https://www.leoadl.com/
 github:
   url: https://github.com/leoadl
 linkedin:
