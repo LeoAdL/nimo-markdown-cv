@@ -7,7 +7,13 @@ email:
 homepage:
   url: https://leoadl.netlify.app/
   text: https://leoadl.netlify.app/
+github:
+  url: https://github.com/leoadl
+linkedin:
+  url: https://www.linkedin.com/in/l%C3%A9o-aparisi-de-lannoy-311b8684/
 phone: (312)-394-9854
+gscholar:
+  url: https://scholar.google.com/citations?user=ZrkvVt0AAAAJ&hl=en
 ---
 
 # Leo **Aparisi de Lannoy**

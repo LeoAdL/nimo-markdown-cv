@@ -1,4 +1,4 @@
-I"<h1 id="leo-aparisi-de-lannoy">Leo <strong>Aparisi de Lannoy</strong></h1>
+I"x<h1 id="leo-aparisi-de-lannoy">Leo <strong>Aparisi de Lannoy</strong></h1>
 
 <!--
 include contact information from the front matter
@@ -23,6 +23,18 @@ Supported arguments:
     
     <i class="fi-telephone" style="margin-left:1em"></i>
     (312)-394-9854
+    
+
+    
+    <i class="fi-social-github" style="margin-left:1em"></i>
+    <a href="https://github.com/leoadl" style="margin-left:0.5em"> Github</a>
+    
+
+    
+    <i class="fi-social-linkedin" style="margin-left:1em"></i>
+    <a href="https://www.linkedin.com/in/l%C3%A9o-aparisi-de-lannoy-311b8684/" style="margin-left:0.5em"> Linkedin</a>
+    
+
     
 
 </div>

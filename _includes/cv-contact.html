@@ -15,4 +15,19 @@
     {{ page.phone }}
     {% endif %}
 
+    {% if page.github %}
+    <i class="fi-social-github" style="margin-left:1em"></i>
+    <a href="{{ page.github.url }}" style="margin-left:0.5em"> {{ "Github" }}</a>
+    {% endif %}
+
+    {% if page.linkedin %}
+    <i class="fi-social-linkedin" style="margin-left:1em"></i>
+    <a href="{{ page.linkedin.url }}" style="margin-left:0.5em"> {{ "Linkedin" }}</a>
+    {% endif %}
+
+    {% if page.gscholar %}
+    <i class="fi-social-google-plus" style="margin-left:1em"></i>
+    <a href="{{ page.gscholar.url }}" style="margin-left:0.5em"> {{ "Scholar" }}</a>
+    {% endif %}
+
 </div>
