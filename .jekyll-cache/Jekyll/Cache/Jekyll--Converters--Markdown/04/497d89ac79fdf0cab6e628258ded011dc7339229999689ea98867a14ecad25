@@ -1,4 +1,4 @@
-I"�<h1 id="leo-aparisi-de-lannoy">Leo <strong>Aparisi de Lannoy</strong></h1>
+I"<h1 id="leo-aparisi-de-lannoy">Leo <strong>Aparisi de Lannoy</strong></h1>
 
 <!--
 include contact information from the front matter
@@ -29,7 +29,7 @@ Supported arguments:
 
 <h2 id="education">Education</h2>
 
-<h3 id="university-of-chicago-20189--"><strong>University of Chicago</strong> <code class="language-plaintext highlighter-rouge">2018.9 -</code></h3>
+<h3 id="university-of-chicago-2018--"><strong>University of Chicago</strong> <code class="language-plaintext highlighter-rouge">2018 -</code></h3>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Chicago, USA
 </code></pre></div></div>
@@ -39,7 +39,7 @@ Supported arguments:
   <li>Advised by <a href="https://voices.uchicago.edu/golosov/contact/">Mikhail Golosov</a>, <a href="https://larspeterhansen.org/contact/">Lars Peter Hansen</a>, <a href="https://alvarezfernando.com/">Fernando Alvarez</a></li>
 </ul>
 
-<h3 id="university-of-chicago-20189---20206"><strong>University of Chicago</strong> <code class="language-plaintext highlighter-rouge">2018.9 - 2020.6</code></h3>
+<h3 id="university-of-chicago-2018---2020"><strong>University of Chicago</strong> <code class="language-plaintext highlighter-rouge">2018 - 2020</code></h3>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Chicago, USA
 </code></pre></div></div>
@@ -48,7 +48,7 @@ Supported arguments:
   <li>M.A. in Economics</li>
 </ul>
 
-<h3 id="paris-school-of-economics-20169---20185"><strong>Paris School of Economics</strong> <code class="language-plaintext highlighter-rouge">2016.9 - 2018.5</code></h3>
+<h3 id="paris-school-of-economics-2016---2018"><strong>Paris School of Economics</strong> <code class="language-plaintext highlighter-rouge">2016 - 2018</code></h3>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Paris, France
 </code></pre></div></div>
@@ -57,7 +57,7 @@ Supported arguments:
   <li>M.SC. Analysis and Policy in Economics, <em>Summa Cum Laude</em>.</li>
 </ul>
 
-<h3 id="école-normale-supérieure-ulm-20159---20165"><strong>École Normale Supérieure Ulm</strong> <code class="language-plaintext highlighter-rouge">2015.9 - 2016.5</code></h3>
+<h3 id="école-normale-supérieure-ulm-2015---2016"><strong>École Normale Supérieure Ulm</strong> <code class="language-plaintext highlighter-rouge">2015 - 2016</code></h3>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Paris, France
 </code></pre></div></div>
@@ -66,21 +66,11 @@ Supported arguments:
   <li>B.Sc. in Physics, <em>Cum Laude</em>.</li>
 </ul>
 
-<h2 id="research-interests">Research interests</h2>
-
-<h3 id="primary-fields"><strong>Primary Fields</strong></h3>
-
-<p>Macroeconomics, Monetary Economics</p>
-
-<h3 id="secondary-fields">Secondary Fields</h3>
-
-<p>Asset Pricing, Time series Econometrics</p>
-
 <h2 id="publications">Publications</h2>
 
 <h3 id="managing-public-portfolios"><a href="https://www.nber.org/papers/w30501"><strong>Managing Public Portfolios</strong></a></h3>
 
-<p><strong>Leo R. Aparisi de Lannoy</strong>, Anmol Bhandari, David Evans, Mikhail Golosov &amp; Thomas J. Sargent.<br />
+<p><strong>Leo R. Aparisi de Lannoy</strong>, Anmol Bhandari, David Evans, Mikhail Golosov &amp; Thomas J. Sargent. <code class="language-plaintext highlighter-rouge">2022</code> <br />
 <em>NBER Working Paper.</em> <br />
 <a href="https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/6328ee5213a65c43a48423f8/1663626851912/abegs4draft.pdf">[PDF]</a></p>
 
@@ -102,11 +92,11 @@ Teaching Assistant, <strong>Money, Banking, and the Financial Crisis</strong> <c
 
 <h2 id="skills">Skills</h2>
 
-<h3 id="programming">Programming</h3>
+<h3 id="programming"><strong>Programming</strong></h3>
 
 <p><strong>Julia</strong> (Proficient), <strong>Python</strong> (Proficient), <strong>LaTeX</strong> (Proficient), <strong>Matlab</strong> (Intermediate)</p>
 
-<h3 id="languages">Languages</h3>
+<h3 id="languages"><strong>Languages</strong></h3>
 
 <p><strong>French</strong> (Native), <strong>English</strong> (Fluent), <strong>Spanish</strong> (Proficient)</p>
 
