@@ -30,7 +30,7 @@ Supported arguments:
 
 ## Education
 
-### **University of Chicago** `2018 -`
+### **University of Chicago** `2018 - 2024 (expected)`
 
 ```
 Chicago, USA
@@ -70,6 +70,7 @@ Paris, France
 **Leo R. Aparisi de Lannoy**, Anmol Bhandari, David Evans, Mikhail Golosov & Thomas J. Sargent. `2022` <br>
 _NBER Working Paper._ <br>
 [[PDF]](https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/6328ee5213a65c43a48423f8/1663626851912/abegs4draft.pdf)
+[[Link]](https://www.nber.org/papers/w30501)
 
 ## Honors & Awards
 
@@ -91,7 +92,7 @@ Teaching Assistant, **Money, Banking, and the Financial Crisis** `EMBA, U Chicag
 
 ### **Programming**
 
-**Julia** (Proficient), **Python** (Proficient), **LaTeX** (Proficient), **Matlab** (Intermediate)
+**Julia** (Proficient), **Python** (Proficient), **LaTeX** (Proficient)
 
 ### **Languages**
 
