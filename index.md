@@ -10,7 +10,7 @@ homepage:
 github:
   url: https://github.com/leoadl
 linkedin:
-  url: https://www.linkedin.com/in/l%C3%A9o-aparisi-de-lannoy-311b8684/
+  url: https://www.linkedin.com/in/leo-aparisi-de-lannoy-311b8684/
 phone: (312)-394-9854
 gscholar:
   url: https://scholar.google.com/citations?user=ZrkvVt0AAAAJ&hl=en
@@ -74,7 +74,7 @@ _NBER Working Paper._ <br>
 
 ## Honors & Awards
 
-**Martin C. And Margaret M. Lee Prize**, Best Performance in Macroeconomics Sequence `U Chicago, 2018` <br>
+**Martin C. And Margaret M. Lee Prize**, Best Performance in Macroeconomics Sequence `U Chicago, 2019` <br>
 **Neubauer Fellowship**, Graduate Fellowship `U Chicago, 2018` <br>
 **First Prize in History**, `French National History Competition (Concours General), 2012` <br>
 
